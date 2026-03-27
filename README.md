@@ -1,6 +1,5 @@
 <h1 align="left"># ROS2-Basic_Guideline</h1>
 <p align="left">This guideline is used to guide the basic way to configure, control, etc., for ROS2 (Robot Operating System).</p>
-<h2 align="left">(Guideline: ALL PROCESS FOR BASIC ROS2)</h2>
 
 ## Section: "{Basic Setup&Controle!!}"
 <p align="left">
