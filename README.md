@@ -62,7 +62,7 @@
 </a>
 </p>
 
-## Section: "{Setup for "Map Scanning" by using "Slam map" in ROS2!!}"
+## Section: "{Setup for "Map Scanning" by using "Slam map"!!}"
 <p align="left">
 <a>
 
@@ -117,7 +117,7 @@
 </a>
 </p>
 
-## Section: "{Setup for set the "Waypoint" & "Automatic moving process" in ROS2!!}"
+## Section: "{Setup for set the "Waypoint" & "Automatic moving process"}"
 <p align="left">
 <a>
 	
